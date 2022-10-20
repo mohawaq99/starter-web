@@ -8,6 +8,10 @@ this is example is to show different parts of git repositry and varios command u
 
 ## Purpose
 
+As state above main purpose is provide good knowledg about git.
+
 ## Deployment
+
+this is simple web project.
 
 ## How To Contribute
