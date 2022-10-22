@@ -15,3 +15,7 @@ As state above main purpose is provide good knowledg about git.
 this is simple web project.
 
 ## How To Contribute
+
+## Copyright
+
+2022 Git.Traning
