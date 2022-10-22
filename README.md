@@ -16,6 +16,8 @@ this is simple web project.
 
 ## How To Contribute
 
+please fork this repostiory
+
 ## Copyright
 
 2022 Git.Traning
