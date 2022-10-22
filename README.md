@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 this is simple website project for showing git and github togather.
-Adding a line for rebase.
+Adding a line for rebase, then more changes
 
 ## Introduction
 
