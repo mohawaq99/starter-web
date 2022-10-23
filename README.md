@@ -21,4 +21,4 @@ please fork this repostiory
 
 ## Copyright
 
-2022 Git.Traning
+2022 Git.Traning. All Right reserved
